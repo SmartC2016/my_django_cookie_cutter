@@ -644,15 +644,3 @@ if __name__ == "__main__":
     else:
         print("HTMX will NOT be installed!")
     NPMRunBuild(absolute_folder_path)
-
-
-"""\
-module.exports = {
-  theme: {
-    extend: {
-      colors: {
-        clifford: "#da373d",
-      },
-    },
-  },
-};"""
